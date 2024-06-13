@@ -1,0 +1,8 @@
+# Mark Jupyter notebook files as text to ensure proper diffing and merging
+*.ipynb text
+
+# Ensure CRLF (Windows) line endings are converted to LF (Unix) line endings
+*.ipynb eol=lf
+
+# Treat Jupyter notebook files as binary to disable text-based diffs in GitHub
+*.ipynb -diff
