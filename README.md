@@ -14,8 +14,8 @@ Explorando imágenes satelitales en diversos formatos y colores, así como índi
 - **True Color**: Visualización realista de la superficie terrestre.
 - **False Color**: Realce de características específicas usando combinaciones de bandas.
 - **Índices de Vegetación y Agua**:
-  - `NDVI` (Normalized Difference Vegetation Index): Monitoreo de la salud de la vegetación.
-  - `NDWI` (Normalized Difference Water Index): Detección de cuerpos de agua.
+  - `NDVI` (Normalized Difference Vegetation Index)
+  - `NDWI` (Normalized Difference Water Index)
 
 Aplicaciones prácticas y estudios de caso.
 
