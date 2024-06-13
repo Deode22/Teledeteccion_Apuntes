@@ -2,6 +2,7 @@
 
 Bienvenido/a a mis apuntes de teledetección y algo de GIS, donde exploro el uso de APIs y módulos de Python para trabajar con imágenes satelitales y sus múltiples aplicaciones. Aquí encontrarás información interesante y útil que quiero recordar y compartir. 
 
+  Nota: En cada carpeta dejare en anaconda environment.yaml para que se pueda replicar el resultado. ^^
 
 
 ## 🌐 APIs
